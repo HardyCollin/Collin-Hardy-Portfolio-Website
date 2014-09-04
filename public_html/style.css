@@ -1,0 +1,23 @@
+body {
+    background-color: lightslategrey;
+}
+nav a {color: chartreuse}
+#current-link {
+    text-decoration: none
+}
+.uppercase{
+    text-transform:uppercase;
+    font-size: 40px;
+}
+img{
+    width: 400px;
+    height: auto;
+}
+h1{
+    border: 15px dotted blue;
+    padding: 15px;
+    padding-left: 30px;
+    margin: 0;
+    margin-right: 350px;
+    margin-left: 350px;
+}
