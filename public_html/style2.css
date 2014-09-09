@@ -1,3 +1,20 @@
 body{
     background-color: cornflowerblue;   
 }
+.uppercase{
+    text-transform:uppercase;
+    font-size: 40px;
+    font-family: monospace;
+}
+h1{
+    border: 15px dotted grey;
+    padding: 15px;
+    padding-left: 80px;
+    margin: 0;
+    margin-right: 490px;
+    margin-left: 490px;
+}
+img{
+    width: 900px;
+    height: auto;
+}

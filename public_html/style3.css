@@ -1,3 +1,16 @@
 body{
     background-color: lightgreen;  
 }
+.uppercase{
+    text-transform:uppercase;
+    font-size: 40px;
+    font-family: fantasy;
+}
+h1{
+    border: 15px dotted red;
+    padding: 15px;
+    padding-left: 80px;
+    margin: 0;
+    margin-right: 470px;
+    margin-left: 490px;
+}
